@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.obrii.mit.dp2021.mykolaichuk</groupId>
-    <artifactId>mavenproject3</artifactId>
+    <artifactId>proba1</artifactId>
     <version>01</version>
     <packaging>war</packaging>
 
-    <name>mavenproject3</name>
+    <name>proba1</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
